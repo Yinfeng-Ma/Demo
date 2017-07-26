@@ -1,2 +1,2 @@
 iGit is a distribution version a control system
-Git is free softwarer.
+Git is free softwarer distrbuted under the GPL.
